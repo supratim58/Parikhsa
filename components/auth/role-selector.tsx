@@ -13,7 +13,7 @@ export function RoleSelector({ onSelectRole }: RoleSelectorProps) {
     <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 p-4">
       <Card className="w-full max-w-md p-8">
         <div className="text-center mb-8">
-          <h1 className="text-3xl font-bold text-gray-900 mb-2">Exam System</h1>
+          <h1 className="text-3xl font-bold text-gray-900 mb-2">PARIKHSA</h1>
           <p className="text-gray-600">Select your role to continue</p>
         </div>
 
